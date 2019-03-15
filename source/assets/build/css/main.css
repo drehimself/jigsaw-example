@@ -1,0 +1,28 @@
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.mr-4 {
+  margin-right: 4rem;
+}
+
+.container {
+  max-width: 1200px;
+}
+
+.selected {
+  font-weight: bold;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
